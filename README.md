@@ -7,6 +7,11 @@ Das Repository dient als persönliches Backup für den Einsatz in einem privaten
 
 Die Lauffähigkeit der Docker-Container wurde auf einem Ubuntu 23.04 ("Lunar Lobster") getestet.
 
+## Dokumentation von Splash und Docker-Image von Scrapinghub
+
+Dokumentation von Splash: https://splash.readthedocs.io/en/stable/
+Docker-Image von Scrapinghub: https://hub.docker.com/r/scrapinghub/splash
+
 ## Download des Repositorys und Starten der Docker-Container
 
 ```shell
